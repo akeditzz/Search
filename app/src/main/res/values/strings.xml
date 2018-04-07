@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Search</string>
+    <string name="label_search">Search</string>
+    <string name="hint_name">Name</string>
+</resources>
